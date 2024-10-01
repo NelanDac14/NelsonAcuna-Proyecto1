@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1727774705 source:g:\mi unidad\uned\proyectos y trabajos\intro a la programación\nelsonacuña-proyecto1\main.cpp
+	<iostream>
+	<string>
+	<locale.h>
+	<cstring>
+	<cctype>
+
